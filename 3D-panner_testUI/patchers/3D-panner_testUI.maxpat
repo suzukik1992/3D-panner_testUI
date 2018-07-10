@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 407.0, 183.0, 324.0, 767.0 ],
+		"rect" : [ 146.0, 169.0, 538.0, 767.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -173,7 +173,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 100.0, 896.0, 139.0, 22.0 ],
 					"style" : "",
-					"text" : "pak 0. 0. 0."
+					"text" : "pak 0.5 0.5 0.5"
 				}
 
 			}
@@ -408,7 +408,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "js_3D-panner_testUI.js",
-				"bootpath" : "~/Documents/Max 7/Projects/3D-panner_testUI/code",
+				"bootpath" : "~/Documents/Max 7/Library/patch/3D-panner_testUI/3D-panner_testUI/code",
 				"patcherrelativepath" : "../code",
 				"type" : "TEXT",
 				"implicit" : 1
